@@ -1,0 +1,8 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'E:\keil5\STM32\ARM\ARMCC\Bin'
+Build target 'Tim_Sample_control'
+compiling six_step.c...
+"no source": Error: command-line:  #564: cannot open embedded assembler output file "\p15f4-2": No such file or directory
+..\BLDC\six_step.c: 0 warnings, 1 error
+"Tim_Sample_control\Tim_Sample_control.axf" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:03
